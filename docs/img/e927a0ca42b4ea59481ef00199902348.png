@@ -1,0 +1,14 @@
+<svg width="161.2" height="20" viewBox="0 0 1612 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Software Heritage: Archive">
+  <title>Software Heritage: Archive</title>
+  <g>
+    <rect fill="#555" width="1102" height="200"/>
+    <rect fill="#0B3D91" x="1102" width="510" height="200"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="1002" fill="#000" opacity="0.1">Software Heritage</text>
+    <text x="50" y="138" textLength="1002">Software Heritage</text>
+    <text x="1157" y="148" textLength="410" fill="#000" opacity="0.1">Archive</text>
+    <text x="1147" y="138" textLength="410">Archive</text>
+  </g>
+  
+</svg>

@@ -1,0 +1,20 @@
+<svg width="88.5" height="20" viewBox="0 0 885 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PRs: welcome">
+  <title>PRs: welcome</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="885" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="299" height="200" fill="#555"/>
+    <rect width="586" height="200" fill="#3C1" x="299"/>
+    <rect width="885" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="199" fill="#000" opacity="0.25">PRs</text>
+    <text x="50" y="138" textLength="199">PRs</text>
+    <text x="354" y="148" textLength="486" fill="#000" opacity="0.25">welcome</text>
+    <text x="344" y="138" textLength="486">welcome</text>
+  </g>
+  
+</svg>

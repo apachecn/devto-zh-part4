@@ -1,0 +1,14 @@
+<svg width="146.6" height="20" viewBox="0 0 1466 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NASA: Mission Overview">
+  <title>NASA: Mission Overview</title>
+  <g>
+    <rect fill="#555" width="407" height="200"/>
+    <rect fill="#0B3D91" x="407" width="1059" height="200"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="60" y="148" textLength="307" fill="#000" opacity="0.1">NASA</text>
+    <text x="50" y="138" textLength="307">NASA</text>
+    <text x="462" y="148" textLength="959" fill="#000" opacity="0.1">Mission Overview</text>
+    <text x="452" y="138" textLength="959">Mission Overview</text>
+  </g>
+  
+</svg>
